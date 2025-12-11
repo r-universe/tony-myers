@@ -5,3 +5,6 @@
 [submodule "powerbrmsINLA"]
 	path = powerbrmsINLA
 	url = https://github.com/tony-myers/powerbrmsinla
+[submodule "qbrms"]
+	path = qbrms
+	url = https://github.com/tony-myers/qbrms
